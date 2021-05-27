@@ -1,3 +1,3 @@
 # 3-mergaite
-Trecias projektas internete
+Trecias projektas internete!
 Bandymai bandymai bandymai...
