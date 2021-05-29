@@ -11,7 +11,7 @@ header {
 }
 
 header > img {
-    float: left;
+    float: right;
     height: 50px;
 }
 
@@ -45,8 +45,8 @@ main {
 }
 
 div {
-    width: 40%;
-    float: left;
+    width: 50%;
+    float: right;
     margin-left: 2.5%;
     margin-right: 2.5%;
     color: #9E9E9E;
@@ -71,7 +71,7 @@ p {
 
 main > img {
     width: 50%;
-    float: left;
+    float: right;
     margin-left: 2.5%;
     margin-right: 2.5%;
 }
